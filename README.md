@@ -5,5 +5,5 @@ Lambda function created in order to read the Task Defintiion before updating the
 
 ## How it works
 
-When the ECS Serivce is issued an update 
+When the ECS Serivce is issued an update.
 
