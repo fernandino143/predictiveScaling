@@ -1,7 +1,7 @@
 Predictive ECS Scaling
 ===
 
-Lambda function created in order to read the Task Definition before updating the ECS Service.
+Lambda function created in order to read the Task Definition memory utilization before updating the ECS Service.
 
 ## How it works
 
