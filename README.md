@@ -35,4 +35,4 @@ Running Count = 8
 Service Memory Utilization = 75%  
 Service AutoScaling monitoring: 80% 
 
-Now, as soon as the Container Instance is ready (registered), the other 4 containers will launch. This gives "self healing" features to the ECS cluster using an Automatic Scaling feature that I believe it would be great.
+Now, as soon as the Container Instance is ready (registered), the other 4 containers will launch. This gives "self healing" features to the ECS cluster using an Automatic Scaling feature that I believe it would be great, so, I created this. I hope this helps anyone and please feel free to give me any feedback (I'm 100% sure that I need it) or improvement.
