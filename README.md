@@ -52,3 +52,7 @@ Application "learning" features
 This was created by an enthusiast and gives "self healing" features to the an ECS cluster using an Automatic Scaling feature that I believe it would be great.  
 I hope this helps anyone and please feel free to give me any feedback (I'm 100% sure that I need it) or improvement.  
 Feel free to provide me with any ideas of future implementations as well as discussing them.
+
+Close Future: 
+Redefine CI's size in order to better escalate the cluster
+Launch CI based on smallest cost instead of ASC with steady value. Resource utilization will set the desired EC2 instance type based on how much it costs
